@@ -1,6 +1,3 @@
-Here's a sample structure for a detailed and impressive `README.md` file that you can include with your project. It explains how to use the project, its purpose, and how to set it up. You can modify the content as necessary based on your project's specifics.
-
----
 
 # **YouTube Category Blocker - Detox Your Feed**
 
