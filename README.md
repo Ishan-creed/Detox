@@ -12,7 +12,7 @@ Welcome to the **YouTube Category Blocker** project! This extension allows users
 
 ## **Screenshots**
 
-![Demo Screenshot]()
+![Demo Screenshot](https://github.com/Ishan-creed/Detox/blob/main/Screenshot%20(527).png)
 
 ## **How to Use**
 
