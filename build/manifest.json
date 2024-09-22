@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "Detox",
+  "version": "1.0",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "tabs",
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/eyelash.png",
+      "48": "icons/eyelash.png",
+      "128": "icons/eyelash.png"
+    }
+  },
+  "content_scripts": [
+      {
+          "matches": ["*://www.youtube.com/*", "*://www.youtube.com/results*"],
+          "js": ["content.js"]
+      }
+  ],
+  "icons": {
+      "16": "icons/eyelash.png",
+      "48": "icons/eyelash.png",
+      "128": "icons/eyelash.png"
+  }
+}
