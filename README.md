@@ -1,0 +1,2 @@
+# Detox
+Browser Extension
