@@ -47,11 +47,11 @@ Welcome to the **YouTube Category Blocker** project! This extension allows users
 ### **Option 1: Install via Local Files**
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Ishan-creed/Detox.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo
+   cd build
    ```
 3. Open Chrome and follow the instructions under the **How to Use** section to load the unpacked extension.
 
@@ -69,7 +69,7 @@ To contribute or further develop the project, follow the instructions below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Ishan-creed/Detox.git
    ```
    
 
